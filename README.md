@@ -53,4 +53,4 @@ github地址：https://github.com/zhonghaoyh
 | 40 | electron |  |  |
 
 ## 语雀知识库地址：
-https://www.yuque.com/g/tingyu-krxmy/wxsz6k/collaborator/join?token=2XHRXKfBU2IUXb6a# 《大前端课堂笔记（2）》
+https://www.yuque.com/g/tingyu-krxmy/kv2bx2/collaborator/join?token=HSWhBUmeMxTyU71h&source=book_collaborator# 《大前端课堂笔记》
